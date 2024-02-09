@@ -1,0 +1,133 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+    
+}
+
+body {
+  background-image: url(../code-syntax-dark-minimal-4k-mr-1366x768.jpg); 
+ background-size: cover;
+ color: #fff;
+ background-attachment: fixed;
+}     
+.search {
+position: fixed;
+left: 590px;
+top: px;
+margin: -15px;
+border-style: solid;
+border-radius: 5%;
+border-color: black;
+}
+header a{
+ text-decoration: none;
+ color: white;
+ display: flex;
+ margin-left: 70px;
+ margin-top: 20px;   
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    padding: 0%;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: rgb(255, 68, 0);
+margin-top: -35px;
+}
+
+.wellcome{
+    position: fixed;
+    left: 485px;
+    top: 140px;
+    font-size: 50px;
+}
+.body ul{
+    position: fixed;
+    /* display: flex; */
+    left: px;
+    top:500px;
+    
+}
+.pass {
+    position: fixed;
+    left: 750px;
+    top: 550px;
+    list-style: none;
+    /* display: flex; */
+border-style: solid;
+    border-radius: 5%;
+    border-color: black;
+    color: black;
+}
+.user {
+position: fixed;
+left: 450px;
+top: 550px;
+list-style: none;
+border-style: solid;
+border-radius: 5%;
+border-color: black;
+}
+.button {
+    
+position: fixed;
+left: 625px;
+top: 650px;
+width: 120px;
+height: 20px;
+border-style: solid;
+border-radius: 20px;
+border-color: black;
+background-color: black;
+color: #fff;
+}
+.button:hover{
+background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .body {
+    display: flex;
+    justify-content: space-between;
+} */
+
+
+
+
+
+
+
+
+
+
